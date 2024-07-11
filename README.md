@@ -2,7 +2,7 @@
 
 TicTacToe game with temporary slots on web via react
 
-[Try it here](#)
+[Try it here](https://infinitexox.netlify.app)
 
 ## Screenshot
 
